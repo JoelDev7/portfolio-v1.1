@@ -1,3 +1,9 @@
+/.parcel-cache/
+/dist/
+/.vscode/
+.firebaserc
+firebase.json
+
 # Logs
 logs
 *.log
