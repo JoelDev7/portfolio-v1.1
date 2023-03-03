@@ -11,6 +11,7 @@ module.exports = {
       lighter_purple: "#741476",
       white: "#ffffff",
       white_op_70: "rgba(255, 255,255, 70%)",
+      white_op_0: "rgba(255, 255,255, 0%)",
       xlight_green_op_75: "rgba(215, 255, 211, 0.75)",
     },
   },
